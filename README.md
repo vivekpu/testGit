@@ -1,7 +1,7 @@
 # testGit
 This is for  testing  purpose.
 ### How to work 
-#1st step:
+###1st step:
 install git in your system.
 #2nd step
 Open git Bash
