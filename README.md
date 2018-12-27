@@ -14,7 +14,7 @@ mkdir (directory name)
 # Go innside the directory.
 git cd (directory name)/
 # Configure Github
-git config --global user.name "user name"
+git config --global user.name "user name"   and  
 git config --globla user.email "email id"
 ## clone reposetory
 # copy https link of that reposetory from github
